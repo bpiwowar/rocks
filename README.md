@@ -1,9 +1,7 @@
 Rocks
 =====
 
-This is the official rock server for the Torch ecosystem. Note that all
-these rocks are installable with [Luarocks](http://luarocks.org/), but
-most of them assume [LuaJIT](http://luajit.org/).
+This is the my rock server.
 
 Please refer to [the Torch portal](http://torch.github.io/) for more info
 on Torch.
